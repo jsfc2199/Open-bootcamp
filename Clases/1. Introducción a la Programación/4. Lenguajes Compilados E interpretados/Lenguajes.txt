@@ -1,0 +1,18 @@
+Compilador: Es un "traductor". Compila una entrada y la convierte en otra, como puede ser código máquina u otro lenguaje
+
+Compilado: Se compila código máquina, la máquina de destino traduce directamente el programa. 
+
+Interpretado: el código fuente no es directamente traducido por la máquina de destino. En cambio, un distinto programa, mejor conocido como intérprete, lee el código y 
+lo ejecuta
+
+Imagina que tienes una receta de hummus y la quieres preparar, pero está escrita en griego antiguo. Hay dos maneras en que tú, alguien que no habla griego antiguo, 
+podrías seguir dichas instrucciones.
+
+La primera es si alguien ya lo ha traducido al español para ti. Tú (y cualquiera que hable el idioma) podrías leer la versión en español de la receta y hacer el hummus. 
+Piensa en esta receta traducida como la versión compilada.
+
+La segunda manera es si tienes un amigo que sabe griego antiguo. Cuando estés listo para hacer hummus, tu amigo se sienta junto a ti y traduce la receta al español mientras 
+avanzas, línea por línea. En este caso, tu amigo es el intérprete de la versión interpretada de la receta.
+
+Lenguajes compilados: C, C++, Erlang, Jaskell, Rust, Go
+Lenguajes interpretados: PHP, Ruby, Python, JS
